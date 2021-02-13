@@ -13,7 +13,7 @@ This is a continual project which synthesizes everything that I have learnt, and
 
 
 
-### Transitioning into a data career
+## A complete guide to becoming a data analyst
 
 <ul>
   {% for post in site.categories.blog2 reversed %}
