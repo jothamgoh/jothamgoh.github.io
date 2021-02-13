@@ -1,6 +1,8 @@
 ---
 permalink: /ebook/
 title: "Ebook"
+layout: single
+order: 1
 ---
 
 # Becoming a data analyst (with no formal education)
