@@ -12,6 +12,7 @@ import sys
 NOTION_TOKEN = '43e890006c46144f57e06305c7b0b65340d1cb00e0aca30070c51fa5b26786eba07d2de13dabac79347fb41fef55d2a8178390f5c50dd7c2a20657e83c036617b59236209f7264f1eedac8d9e2fb'
 NOTION_ROOT_PAGE_ID = 'bf5eb7a0916b46359b1766b57f2450cb'
 
+ROOT_FOLDER = "C:\\Users\\jotha\\Desktop\\jothamgoh.github.io"
 
 if NOTION_TOKEN is None:
     sys.exit("The NOTION_TOKEN is missing, see the readme on how to set it.")
@@ -21,8 +22,8 @@ if NOTION_ROOT_PAGE_ID is None:
 client = NotionClient(token_v2=NOTION_TOKEN)
 root_page_id = NOTION_ROOT_PAGE_ID
 
-dest_path = os.path.normpath(os.path.join(
-    os.path.dirname(__file__), '..', 'content', 'blog'))
+dest_path = os.path.join(ROOT_FOLDER, "blog", "_posts")
+
 
 markdown_pages = {}
 regex_meta = re.compile(r'^== *(\w+) *:* (.+) *$')
