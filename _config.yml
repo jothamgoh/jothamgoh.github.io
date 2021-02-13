@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Jotham Goh"
-  avatar           : "/assets/bio-photo.jpg"
+  avatar           : "/assets/bio_photo.jpg"
   bio              : "Hi, I'm Jotham. This is where I write."
   location         : "Singapore"
   email            :
