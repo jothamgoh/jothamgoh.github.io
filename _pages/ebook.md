@@ -13,7 +13,8 @@ This is a continual project which synthesizes everything that I have learnt, and
 ### Transitioning into a data career
 
 <ul>
-  {% for post in site.categories.blog2 reversed offset:-1 %}
+  {% for post in site.categories.blog2 reversed %}
+    {% if post.title != "Become a data analyst (with no formal education)" %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
