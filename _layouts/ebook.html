@@ -5,8 +5,20 @@ layout: archive
 {{ content }}
 
 
+<ul class="taxonomy__index">
+  {% assign postsInYear = site.categories.ebook | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in postsInYear %}
+  {% endfor %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign postsByYear = site.categories.ebook | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
     <div class="entries-{{ entries_layout }}">
       {% for post in year.items %}
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>
+  </section>
+{% endfor %}
