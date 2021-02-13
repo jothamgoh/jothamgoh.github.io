@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Chapter two - Why I chose to be a self-taught data analyst
-date:       2020-10-15 15:31:19
-summary:    How I switched careers and became a data analyst in 5 months
-categories: data, data analyst
+title: "Chapter two - Why I chose to be a self-taught data analyst"
+last_modified_at: 2020-10-15 15:31:19
+categories:
+  - Ebook
+tags:
+  - Data Analyst
 ---
 
 I chose to be self-taught, but it's certainly not for everyone. It's something I felt suited my style. I'm an independent and avid self-learner. I did research on materials prior to taking the leap. I had enough savings to last me comfortably for a few years. This gave me a comfortable cushion to purely focus on learning. I knew in the worst case I could go back to my old role.
