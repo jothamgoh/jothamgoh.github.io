@@ -19,6 +19,7 @@ This is a continual project which synthesizes everything that I have learnt, and
   {% for post in site.categories.blog2 reversed %}
     {% if post.title != "Become a data analyst (with no formal education)" %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
 
