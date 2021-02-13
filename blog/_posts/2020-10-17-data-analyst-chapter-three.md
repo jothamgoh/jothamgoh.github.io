@@ -1,15 +1,9 @@
 ---
-title: "Context is underrated"
-last_modified_at: 2016-03-09T16:20:02-05:00
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
+title: '2020-10-17-data-analyst-chapter-three '
+last_modified_at: '2020-10-15 15:31:19'
+categories: '- Ebook'
+tags: '- Data Analyst'
 ---
-
-
 Since I made a career switch to data analytics, the most common question I get is “So how do you start learning data analytics and what resources did you use?”.
 
 These people often have a desire to learn but when push comes to shove they stick to their current roles. When I dig a little deeper, the main reason that causes most people to not take action is uncertainty. I get it. There are huge trade-offs and risks to switch careers and we rightly should be cautious.
