@@ -1,5 +1,5 @@
 ---
-title: "Chapter two - Why I chose to be a self-taught data analyst"
+title: "Chapter two: Why I chose to be a self-taught data analyst"
 last_modified_at: 2020-10-15 15:31:19
 categories:
   - Ebook
