@@ -13,7 +13,12 @@ layout: archive
 
 
 <h1>Blog posts</h1>
+<ul>
+  {% for post in site.categories.blog reversed %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 
 <h1>Bookshelf</h1>
-<p>Here is a list of books that has inspired me.</p>
+<p>Find a list of books that has inspired me <a href="https://jothamgoh.github.io/books/">here.</a></p>
