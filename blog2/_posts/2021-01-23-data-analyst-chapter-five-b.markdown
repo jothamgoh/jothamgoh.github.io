@@ -181,6 +181,3 @@ In practice, the most important thing is to build dashboards that are used. This
 Congrats for making it this far! We've learnt how to learn, as well as covered resources and mindsets to be a successful data analyst. We've talked about Python, Pandas. Cleaning, EDA and visualisation. SQL, statistics, and data visualization software. 
 
 But what's the use of learning all these if your interviewers can't see your value? I'll break down interview strategy in the next sections. The goal: convert resumes to job offers. Luck plays a part in every job application. The critical question is not, will you get lucky? But what will you do with the luck that you get? Let's maximize your return on luck.
-
-
-
