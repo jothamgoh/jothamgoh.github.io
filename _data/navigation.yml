@@ -10,6 +10,8 @@ main:
     url: /tags/
   - title: "Books"
     url: /books/
+  - title: "About"
+    url: /about/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
