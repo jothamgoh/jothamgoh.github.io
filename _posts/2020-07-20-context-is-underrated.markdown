@@ -1,9 +1,12 @@
 ---
-layout:     post
-title:      Context is underrated
-date:       2020-07-20 14:12:00
-summary:    Context sheds light to your goals
-categories: 
+title: "Context is underrated"
+last_modified_at: 2016-03-09T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
 
 Imagine you studied woodwork in college and you're thinking of starting a carpentry table business. College taught you the woodworking skills - how to use a sander, hammer, and a saw. You're equipped with the knowledge and tools to build a table, but here are some reasons why you might fail: 
