@@ -1,6 +1,6 @@
 ---
 title: "Chapter 5b: Learning data analysis part 2"
-last_modified_at: 2020-12-06 15:31:19
+last_modified_at: 2020-12-07 15:31:19
 categories:
   - Ebook
 tags:
