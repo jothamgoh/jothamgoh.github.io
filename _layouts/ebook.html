@@ -4,6 +4,8 @@ layout: archive
 
 {{ content }}
 
+<p>This is where I type my stuff</p>
+
 <ul class="taxonomy__index">
   {% assign postsInYear = site.categories.ebook | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
