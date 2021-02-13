@@ -1,9 +1,7 @@
 ---
-title: About
+title: Hi, I'm Jotham
 permalink: /about/
 ---
-
-# Hi, I'm Jotham
 
 My goal is to build tools that empower people to test ideas easily. This speeds up knowledge creation and accelerates our rate of solving problems.
 
