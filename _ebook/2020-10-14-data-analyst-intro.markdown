@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      I became a data analyst in 5 months (with no formal education)
-date:       2020-10-14 15:31:19
-summary:    How I switched careers and became a data analyst in 5 months
-categories: data, data analyst
+title: "I became a data analyst in 5 months (with no formal education)"
+last_modified_at: 2020-01-09T16:20:02-05:00
+categories:
+  - Ebook
+tags:
+  - Data Analyst
 ---
 
 # Becoming a data analyst (with no formal education)
