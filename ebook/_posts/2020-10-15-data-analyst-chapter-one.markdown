@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Chapter one - Who is a data analyst, why read this?
-date:       2020-10-15 15:31:19
-summary:    Who is a data analyst, why be one?
-categories: data, data analyst
+title: "Chapter one - Who is a data analyst, why read this?"
+last_modified_at: 2020-10-15 15:31:19
+categories:
+  - Ebook
+tags:
+  - Data Analyst
 ---
 
 This book is about my experience becoming a data analyst. I'm not in any definition an expert. I've worked at exactly two different companies as a data analyst, with a slew of data interviews (mostly successful, some not) under my belt. This is just one path you can take if you're looking to transition into a data analyst career. Call me biased but I think it's one of the most meaningful, impactful and future proof jobs out there right now. 

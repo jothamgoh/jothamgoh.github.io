@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      Chapter four - Learning to code
-date:       2020-12-04 15:31:19
-summary:    How I switched careers and became a data analyst in 5 months
-categories: data, data analyst
+title: "Chapter four - Learning to code"
+last_modified_at: 2020-12-04 15:31:19
+categories:
+  - Ebook
+tags:
+  - Data Analyst
 ---
+
 
 Learning to code is hard as there are many thorny choices to make. 
 

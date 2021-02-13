@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Chapter three - Making a game plan and taking action
-date:       2020-10-16 15:31:19
-summary:    How I switched careers and became a data analyst in 5 months
-categories: data, data analyst
+title: "Chapter three - Making a game plan and taking action"
+last_modified_at: 2020-10-16 15:31:19
+categories:
+  - Ebook
+tags:
+  - Data Analyst
 ---
 
 Since I made a career switch to data analytics, the most common question I get is "So how do you start learning data analytics and what resources did you use?". 
