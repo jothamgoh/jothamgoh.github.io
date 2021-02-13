@@ -1,10 +1,14 @@
 ---
-title: '2020-10-17-data-analyst-chapter-three '
+title: "Context is underrated"
+last_modified_at: 2016-03-09T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
-```Plain Text
-== date: 2020-09-17
-== description: How to use notion as a content manager to generate a static blog.
-```
+
 
 Since I made a career switch to data analytics, the most common question I get is “So how do you start learning data analytics and what resources did you use?”.
 
