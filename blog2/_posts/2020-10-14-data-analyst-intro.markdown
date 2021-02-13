@@ -1,5 +1,5 @@
 ---
-title: "Become a data analyst (with no formal education)"
+title: "Become a data analyst intro"
 last_modified_at: 2020-01-09T16:20:02-05:00
 categories:
   - Ebook
@@ -17,7 +17,7 @@ This is a continual project which synthesizes everything that I have learnt, and
 
 <ul>
   {% for post in site.categories.blog2 reversed %}
-    {% if post.title != "Become a data analyst (with no formal education)" %}
+    {% if post.title != "Become a data analyst intro" %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
