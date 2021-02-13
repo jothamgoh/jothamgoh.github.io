@@ -1,5 +1,10 @@
 ---
-title: '4: Learning to code'
+title: "Learning to code"
+last_modified_at: 2020-01-09T16:20:02-05:00
+categories:
+  - Ebook
+tags:
+  - Data Analyst
 ---
 Learning to code is hard as there are many thorny choices to make. 
 
