@@ -271,7 +271,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "blog"
       type: posts
     values:
       layout: single
@@ -288,8 +288,8 @@ defaults:
       layout: single
       author_profile: false
   - scope:
-      path: "_ebook"
-      type: posts
+      path: "ebook"
+      type: ebook
     values:
       layout: single
       author_profile: false
