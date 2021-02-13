@@ -1,13 +1,11 @@
 ---
-title: "I became a data analyst in 5 months (with no formal education)"
+title: "Become a data analyst (with no formal education)"
 last_modified_at: 2020-01-09T16:20:02-05:00
 categories:
   - Ebook
 tags:
   - Data Analyst
 ---
-
-# Becoming a data analyst (with no formal education)
 
 Welcome to the ebook on becoming a data analyst. Who is a data analyst? It's someone who uses data to drive business value. I scrambled and stumbled my way into data and ultimately received multiple offers from some of the biggest companies - with no prior data experience or programming background. 
 
@@ -16,6 +14,12 @@ This is a continual project which synthesizes everything that I have learnt, and
 
 
 ### Transitioning into a data career
+
+<ul>
+  {% for post in site.categories.blog2 reversed offset:1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 **Chapter 1:  Who is a data analyst and why you should read this?**
 
