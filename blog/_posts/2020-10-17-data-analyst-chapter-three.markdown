@@ -1,10 +1,10 @@
 ---
-title: '2020-10-17-data-analyst-chapter-three '
-last_modified_at: '2020-10-15 15:31:19'
-categories: 
-	- Ebook
-tags: 
-	- Data Analyst
+title: "Chapter 5ccc: Learning data analysis part 2"
+last_modified_at: 2020-12-07 15:31:19
+categories:
+  - Ebook
+tags:
+  - Data Analyst
 ---
 Since I made a career switch to data analytics, the most common question I get is “So how do you start learning data analytics and what resources did you use?”.
 
