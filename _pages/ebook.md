@@ -12,14 +12,8 @@ This is a continual project which synthesizes everything that I have learnt, and
 
 ### Transitioning into a data career
 
-[**Chapter 1:  Who is a data analyst and why you should read this?**](https://jothamgoh.github.io/blog2/ebook/data-analyst-chapter-one/)
-
-**Chapter 2: Making a game plan and taking action**
-
-**Chapter 3: How to learn programming**
-
-**Chapter 4: Learning everything else you need**
-
-**Chapter 5: How to get interviews (don't miss this chapter)**
-
-**Chapter 6: Interview strategy**
+<ul>
+  {% for post in site.categories.blog2 reversed offset:-1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
