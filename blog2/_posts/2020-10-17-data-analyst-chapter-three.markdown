@@ -1,5 +1,5 @@
 ---
-title: "Chapter three: Making a game plan and taking action"
+title: "Chapter 3: Making a game plan and taking action"
 last_modified_at: 2020-10-16 15:31:19
 categories:
   - Ebook

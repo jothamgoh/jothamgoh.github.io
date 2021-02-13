@@ -1,11 +1,15 @@
 ---
-title: "Chapter four: Learning to code"
-last_modified_at: 2020-12-04 15:31:19
+title: "Chapter 4: Learning to code"
+last_modified_at: 2020-10-17 15:31:19
 categories:
   - Ebook
 tags:
   - Data Analyst
 ---
+Chapter four: Learning to code
+
+
+
 Learning to code is hard as there are many thorny choices to make. 
 
 

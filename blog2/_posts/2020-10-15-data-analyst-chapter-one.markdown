@@ -1,5 +1,5 @@
 ---
-title: "Chapter one: Who is a data analyst, why read this?"
+title: "Chapter 1: Who is a data analyst, why read this?"
 last_modified_at: 2020-10-15 15:31:19
 categories:
   - Ebook

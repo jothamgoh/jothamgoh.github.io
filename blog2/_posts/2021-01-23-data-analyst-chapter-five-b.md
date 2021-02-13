@@ -1,11 +1,13 @@
 ---
 title: "Chapter 5b: Learning data analysis part 2"
-last_modified_at: 2020-12-07 15:31:19
+last_modified_at: 2020-11-18 15:31:19
 categories:
   - Ebook
 tags:
   - Data Analyst
 ---
+
+
 We covered Pandas, EDA, and Python visualisations in the previous section. We then reinforced the concepts through practice. This gives us a firm base to layer more concepts on. 
 
 
