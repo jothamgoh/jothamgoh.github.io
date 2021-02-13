@@ -1,10 +1,8 @@
 ---
-title: "My Ebook"
+title: "Become a data analyst (with no formal education)"
 permalink: /ebook/
 author_profile: false
 ---
-
-# Becoming a data analyst (with no formal education)
 
 Welcome to the ebook on becoming a data analyst. Who is a data analyst? It's someone who uses data to drive business value. I scrambled and stumbled my way into data and ultimately received multiple offers from some of the biggest companies - with no prior data experience or programming background. 
 
