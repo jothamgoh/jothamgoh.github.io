@@ -1,6 +1,6 @@
 ---
 title: "My Ebook"
-layout: ebook
+layout: posts2
 permalink: /ebook/
 author_profile: false
 ---
