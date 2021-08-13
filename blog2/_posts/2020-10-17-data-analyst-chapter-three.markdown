@@ -215,24 +215,4 @@ This is an insanely practical book. The author examines how humans tick, and sug
 Amazon book link [here](https://www.amazon.sg/Atomic-Habits-life-changing-million-bestseller/dp/1847941834/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=). 
 
 
-
-Preparing your portfolio
-
-**Skills required for data analytics**
-
-We've now seen how to .... the remaining chapters cover the rest of the strategy. 
-
-- Coding
-- Visualisations come last (least important if you already understand data)
-- Statistics - learn this after as you may lose motivation. Do "Applied statistics" using python
-- SQL
-
-
-
-Portfolio: Don't forget interviews.
-
-
-
-
-
-##### 
+We've made a game plan. Let's now get down to learning about data.
