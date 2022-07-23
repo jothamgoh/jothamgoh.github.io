@@ -29,7 +29,7 @@ I'd much rather take a good online course or book any day. Why? I'm guaranteed a
 
 ### Low risk
 
-Being self-taught is low risk. What's the worst that could happen? I spend a few months to acquire new skills. If I realize I don't like the work, I'll just go back to my old job. There are no commitments. If I fail to learn and think that it's too hard, again, I'll go back to my previous job. I like the optionality, as there are no big commitments. Maybe I just have commitment phobia. 
+Being self-taught is low risk. What's the worst that could happen? I spend a few months to acquire new skills. If I realize I don't like the work or if I fail to learn and think that it's too hard, I'll just go back to my old job. I like the optionality. 
 
 ### Self-taught can be faster
 
@@ -49,7 +49,7 @@ I can't speak for the two options below as I never went through them, but this w
 
 ### University
 
-The opportunity cost is high in both university fees and time. Also, I'll be locked in a program, something which didn't appeal to commitment phob me. By choosing the self-taught route, I really was betting that a cert would not mean as much compared to actual experience. 
+The opportunity cost is high in both university fees and time. Also, I'll be locked in a program, something which didn't appeal to me. By choosing the self-taught route, I really was betting that a cert would not mean as much compared to actual experience. 
 
 But if you can get into a top school, or if you get subsidized, or you just want a long break - it might be worth it. You'll get a network in university too which is valuable. 
 
