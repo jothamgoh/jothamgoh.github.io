@@ -37,11 +37,11 @@ I find having impact fulfilling. It gives me a reason to do mundane things when 
 
 
 
-### Change industries easily (You keep your options open) 
+### Change industries easily 
 
-I absolutely love having options. I don't like the idea of being stuck in a sunsetting industry. I've learnt that riding the wave and jumping on the bandwagon will make your life a lot easier. 
+I absolutely love having options. I don't like the idea of being stuck in a sunsetting industry. Technology moves really fast and I've learnt that riding the wave and jumping on the bandwagon will make your life a lot easier. 
 
-I've switched companies once in my short 2.5 year span as a data analyst. It was from ecommerce to fintech. The business knowledge I've gained in ecommerce is completely useless in my current role, but the data skills I've picked were fully relevant. It was a tough learning about fintech in the first two months, but I felt like a fish in water when looking at new datasets.   
+I've switched companies once in my 4 year span as a data analyst. It was from ecommerce to fintech. The business knowledge I've gained in ecommerce is completely useless in my current role, but the data skills I've picked were fully relevant. It was a tough learning about fintech in the first two months, but I felt like a fish in water when looking at new datasets.   
 
 Having transferable data skills gives you options. Besides the fintech company, I had other offers in a tech travel company and a large tech ad firm. All different industries. If you're unhappy with the current industry or company culture, quit. Change. Go to a completely different industry with a different culture. The transition is easy as long as you have the relevant data skills.
 
