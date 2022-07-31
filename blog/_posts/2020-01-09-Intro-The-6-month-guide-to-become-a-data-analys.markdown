@@ -2,7 +2,7 @@
 categories: Ebook
 last_modified_at: '2020-01-09'
 tags: Data Analyst
-title: 'Intro: The 6 month guide to become a data analyst'
+title: 'Intro: The 8 month guide to become a data analyst'
 ---
 
 1 OK CHANGE AGAINHELLO Test test Welcome to the ebook on becoming a data analyst. Who is a data analyst? It's someone who uses data to drive business value. With no prior data experience or programming background, I scrambled and stumbled my way into data and ultimately received multiple offers from some of the biggest companies.<br />
