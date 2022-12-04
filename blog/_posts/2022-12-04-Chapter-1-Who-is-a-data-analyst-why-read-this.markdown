@@ -2,8 +2,8 @@
 categories:
 - Ebook
 - Blog
-date: '2022-12-04T03:39:00'
-permalink: ''
+date: '2022-12-04T03:47:00'
+permalink: chapter_one_slug
 tags:
 - Data Analyst
 - Analytics
