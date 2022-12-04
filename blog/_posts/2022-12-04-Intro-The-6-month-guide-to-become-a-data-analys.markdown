@@ -3,13 +3,15 @@ categories:
 - Ebook
 - Blog
 - Blog2
-date: '2022-12-04T03:31:00'
+date: '2022-12-04T03:33:00'
 permalink: data_analyst_ebook_intro
 tags:
 - Data Analyst
 - Analytics
 title: 'Intro: The 6 month guide to become a data analyst'
 ---
+
+test trying if this works…<br />
 
 This book is about my experience becoming a data analyst. I'm not in any definition an expert. I've worked at exactly two different companies as a data analyst, with a slew of data interviews (mostly successful, some not) under my belt. This is just one path you can take if you're looking to transition into a data analyst career. Call me biased but I think it's one of the most meaningful, impactful and future proof jobs out there right now.<br />
 
