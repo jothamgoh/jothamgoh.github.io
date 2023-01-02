@@ -1,7 +1,7 @@
 ---
 categories: []
-date: '2023-01-02T22:39:00'
-permalink: ''
+date: '2023-01-02T22:40:00'
+permalink: robot_army
 tags: []
 title: Command your robot army
 ---
