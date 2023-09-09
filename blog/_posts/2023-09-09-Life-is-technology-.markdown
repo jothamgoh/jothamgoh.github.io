@@ -1,10 +1,10 @@
 ---
 categories:
 - Blog
-date: '2023-09-09T21:57:00'
+date: '2023-09-09T22:20:00'
 permalink: ''
 tags: []
-title: Life is technology 3
+title: Life is technology 34
 ---
 
 If your life was a startup, would it be a unicorn or go bankrupt?<br />
