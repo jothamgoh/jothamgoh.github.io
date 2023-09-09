@@ -1,10 +1,10 @@
 ---
 categories:
 - Blog
-date: '2023-09-09T14:36:00'
+date: '2023-09-09T21:13:00'
 permalink: writing_change_life
 tags: []
-title: Writing will change your life 3…
+title: Writing will change your life 34
 ---
 
 You can’t walk in a thunderstorm and not get wet. In the same way, you can’t be a consistent writer and not be successful.<br />
@@ -75,4 +75,6 @@ It turns out that writing is identical to worry. Both actions boil down to turni
 
     - <a href="https://web.archive.org/web/20200810193719/https://jamesclear.com/average-speed">What is your average speed</a><br />
 
-- <br />
+- me<br />
+
+<br />
