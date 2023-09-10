@@ -1,6 +1,7 @@
 ---
-categories: []
-date: '2023-09-09T22:37:00'
+categories:
+- Ebook
+date: '2023-09-10T05:24:00'
 permalink: ''
 tags: []
 title: Life is technology 3456
