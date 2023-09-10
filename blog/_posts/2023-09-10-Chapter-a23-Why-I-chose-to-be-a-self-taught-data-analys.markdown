@@ -1,7 +1,7 @@
 ---
 categories:
-- Ebook
-date: '2023-09-10T05:48:00'
+- Blog
+date: '2023-09-10T05:56:00'
 permalink: chapter_2_why_be_a_data_analyst
 tags: []
 title: 'Chapter a23: Why I chose to be a self-taught data analyst'
