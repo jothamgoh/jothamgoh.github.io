@@ -2,7 +2,7 @@
 categories:
 - Blog
 date: '2023-09-10T05:43:00'
-permalink: context
+permalink: context_234
 tags: []
 title: Context is underrated 234
 ---
