@@ -1,13 +1,13 @@
 ---
 categories:
 - Blog
-date: '2023-09-18T23:00:00'
+date: '2023-09-18T23:02:00'
 permalink: ''
 tags: []
 title: Life is technology 2345675
 ---
 
-If your life was a startup, would it be a unicorn or go bankrupt?<br />
+If your life was a startup, would it be a unicorn or go bankrupt? Editing this to see if it publishes a new post.<br />
 
 <br />
 
