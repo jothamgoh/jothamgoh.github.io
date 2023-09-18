@@ -1,12 +1,12 @@
 ---
 categories:
 - Blog
-date: '2023-09-18T23:47:00'
+date: '2023-09-18T23:51:00'
 permalink: ''
 tags: []
 title: New post 2 heh
 ---
 
-This is my new post. New content for my new post<br />
+This is my new post. New content for my new post. But again, I want another sentence.<br />
 
 <br />
