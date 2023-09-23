@@ -1,9 +1,9 @@
 ---
 categories: []
-date: '2023-09-23T02:16:00'
+date: '2023-09-23T02:51:00'
 permalink: chapter_one_slug
 tags: []
-title: 'Intro: The 6 month guide to become a data analyst (test v4)'
+title: 'Intro: The 6 month guide to become a data analyst (test v5)'
 ---
 
 My third edit. <br />
