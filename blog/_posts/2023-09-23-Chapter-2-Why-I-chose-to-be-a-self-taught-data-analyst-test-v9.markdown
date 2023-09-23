@@ -1,12 +1,12 @@
 ---
 categories: []
-date: '2023-09-23T03:31:00'
+date: '2023-09-23T03:39:00'
 permalink: chapter_2_why_be_a_data_analyst
 tags: []
 title: 'Chapter 2: Why I chose to be a self-taught data analyst (test v9)'
 ---
 
-My second edit on wordpress. This should now show in GitHub<br />
+My second edit on wordpress. This should now show in GitHub. This should be edited in both Notion and GitHub.<br />
 
 <br />
 
