@@ -1,12 +1,12 @@
 ---
 categories: []
-date: '2023-09-24T01:51:00'
+date: '2023-09-24T07:18:00'
 permalink: chapter_2_why_be_a_data_analyst
 tags: []
-title: Edited in github deleted on wordpress (v4)
+title: Edited in github deleted on wordpress (v5)
 ---
 
-This post should just be on github now.<br />
+This post should just be on github now. Let’s see if this works. The sha is <code>35b06735311408373cc61f2a142dc19ca7b9de0d</code> and path is <code>'blog/_posts/2023-09-24-Published-GitHub-and-new-wordpress-v2.markdown'</code><br />
 
 <br />
 
