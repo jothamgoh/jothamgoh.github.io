@@ -1,0 +1,13 @@
+---
+categories: []
+date: '2023-09-24T23:52:00'
+permalink: ''
+tags: []
+title: Post 1 (v2)
+---
+
+Last status: Upload to just wordpress.<br />
+
+Expected status: Upload to WP and GitHub.<br />
+
+<br />
