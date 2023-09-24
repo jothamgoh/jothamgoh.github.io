@@ -1,12 +1,12 @@
 ---
 categories: []
-date: '2023-09-24T00:51:00'
+date: '2023-09-24T00:53:00'
 permalink: ''
 tags: []
 title: Life is technology (test v2)
 ---
 
-My edit in v2. This should appear in both WordPress and GitHub<br />
+My edit in v2. This should appear in just GitHub and not WordPress.<br />
 
 <br />
 
