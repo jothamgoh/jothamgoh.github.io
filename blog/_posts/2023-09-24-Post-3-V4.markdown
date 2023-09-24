@@ -1,0 +1,13 @@
+---
+categories: []
+date: '2023-09-24T23:45:00'
+permalink: ''
+tags: []
+title: Post 3 (V4)
+---
+
+Current Status: Uploaded to WordPress only<br />
+
+Expected status: upload to wordpress, upload on github… I hope github errors out now. So I can debug what’s going on.<br />
+
+<br />
