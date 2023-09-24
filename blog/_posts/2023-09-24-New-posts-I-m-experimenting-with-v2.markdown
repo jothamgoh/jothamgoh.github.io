@@ -1,9 +1,9 @@
 ---
 categories: []
-date: '2023-09-24T02:34:00'
+date: '2023-09-24T07:41:00'
 permalink: chapter_1_who_is_a_data_analyst
 tags: []
-title: New posts I’m experimenting with - changed title(v3)
+title: New posts I’m experimenting with - changed title(v4)
 ---
 
 <input type="checkbox" checked="checked" disabled="disabled"> Publish on wordpress<br />
@@ -12,14 +12,14 @@ title: New posts I’m experimenting with - changed title(v3)
 <input type="checkbox" checked="checked" disabled="disabled"> Add GitHub<br />
 <input type="checkbox" checked="checked" disabled="disabled"> Change title<br />
 <input type="checkbox" checked="checked" disabled="disabled"> Remove GitHub<br />
-<input type="checkbox" disabled="disabled"> Add Github<br />
-<input type="checkbox" disabled="disabled"> Change Title and Sync<br />
-<input type="checkbox" disabled="disabled"> Remove GitHub<br />
+<input type="checkbox" checked="checked" disabled="disabled"> Add Github<br />
+<input type="checkbox" checked="checked" disabled="disabled"> Change Title and Sync<br />
+<input type="checkbox" checked="checked" disabled="disabled"> Remove GitHub<br />
 <input type="checkbox" disabled="disabled"> Remove Wordpress<br />
 <input type="checkbox" disabled="disabled"> Delete post<br />
 <br />
 
-Status: I just changed the content of the post. Let’s see if I can upload this post to github cleanly now<br />
+Status: I just changed the content of the post. Let’s edit the post on wp and delete it on GitHub. See if this works.<br />
 
 <br />
 
