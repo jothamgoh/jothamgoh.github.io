@@ -1,0 +1,13 @@
+---
+categories: []
+date: '2023-09-24T09:34:00'
+permalink: ''
+tags: []
+title: Post 3 (V2)
+---
+
+Current Status: Uploaded to WordPress<br />
+
+Expected status: upload to wordpress, github and DB. Let’s see why the error happens now. I want to publish this on GitHub!!!<br />
+
+<br />
