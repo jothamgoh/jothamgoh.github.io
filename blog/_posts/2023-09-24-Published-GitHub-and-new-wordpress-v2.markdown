@@ -1,12 +1,12 @@
 ---
 categories: []
-date: '2023-09-24T01:25:00'
+date: '2023-09-24T01:51:00'
 permalink: chapter_2_why_be_a_data_analyst
 tags: []
-title: Edited in both github and wordpress (v3)
+title: Edited in github deleted on wordpress (v4)
 ---
 
-This post should be edited in github and on wordpress now.<br />
+This post should just be on github now.<br />
 
 <br />
 
