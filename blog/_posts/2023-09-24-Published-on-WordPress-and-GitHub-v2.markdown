@@ -1,12 +1,12 @@
 ---
 categories: []
-date: '2023-09-24T06:59:00'
+date: '2023-09-24T07:03:00'
 permalink: chapter_4_learning_to_code
 tags: []
-title: Published on WordPress and GitHub with changed title (v3)
+title: Published on WordPress and GitHub with changed title (v4)
 ---
 
-This post should just be on wordpress and on GitHub.<br />
+I’m changing the title again. This post should just be on wordpress and on GitHub with edited title.<br />
 
 <br />
 
