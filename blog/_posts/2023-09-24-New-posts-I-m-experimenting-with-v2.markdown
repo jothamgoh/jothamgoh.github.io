@@ -1,9 +1,9 @@
 ---
 categories: []
-date: '2023-09-24T02:32:00'
+date: '2023-09-24T02:34:00'
 permalink: chapter_1_who_is_a_data_analyst
 tags: []
-title: New posts I’m experimenting with (v2)
+title: New posts I’m experimenting with - changed title(v3)
 ---
 
 <input type="checkbox" checked="checked" disabled="disabled"> Publish on wordpress<br />
