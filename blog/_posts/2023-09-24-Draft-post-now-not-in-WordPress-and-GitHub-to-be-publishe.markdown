@@ -1,12 +1,12 @@
 ---
 categories: []
-date: '2023-09-24T07:50:00'
+date: '2023-09-24T07:52:00'
 permalink: ''
 tags: []
-title: Draft post now in just in GitHub (v3)
+title: Draft post now in GitHub and wordpress (v3)
 ---
 
-This is my edit. This is just in github now.<br />
+This is my edit. This is just in github and wordpress.<br />
 
 <br />
 
