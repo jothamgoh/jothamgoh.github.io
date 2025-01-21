@@ -121,8 +121,6 @@ For hard skills, an expert means having both the breath and depth. You know many
 
 If you started Python 2 weeks ago, chances are you score 10 marks in the Python row. But if you have been using excel for years with all the varying functions, you'll likely score yourself 90.
 
-In general, your ability in hard skills can be summarized using this simple mental model:
-
  
 
 **Grading Soft skills**
